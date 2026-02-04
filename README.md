@@ -10,7 +10,7 @@ The goal of this project is to serve as a **knowledge base** for learners,
 technicians, and professionals who want a clearer understanding of
 DentalCAD-related concepts, system requirements, and common workflows.
 
-> ⚠️ This repository does **not** include Exocad software installers, cracks,
+> ⚠️ This repository does **not** include Exocad software installers,
 > license files, or proprietary binaries.
 
 ---
