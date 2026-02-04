@@ -12,6 +12,7 @@ DentalCAD-related concepts, system requirements, and common workflows.
 
 > ⚠️ This repository does **not** include Exocad software installers,
 > license files, or proprietary binaries.
+> DentalCAD 3.2 Elefsina Feature Release [https://exocad.com/our-products/trusmile-video-and-trusmile-photo] – new AI-enabled services AI Design [https://exocad.com/our-products/ai-design], TruSmile Video and TruSmile Photo for emotional visualizations and time-saving workflows
 
 ---
 
