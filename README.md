@@ -1,5 +1,3 @@
-# exocad-dentalcad-elefsina
-# Exocad DentalCad Elefsina Software
 # Exocad DentalCAD Elefsina Software
 
 ## Overview
