@@ -92,6 +92,6 @@ Content may evolve over time as workflows, systems, and best practices change.
 Digital dentistry continues to evolve rapidly, and knowledge sharing plays a
 key role in that progress. This repository aims to contribute responsibly to
 that shared understanding.
-**[Official Exocad website for product and licensing information](https://www.exocad.com)**.
+**Official Exocad website for product and licensing information[Exocad](https://www.exocad.com)**.
 
 If you find this project useful, a ⭐ is always appreciated.
