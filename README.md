@@ -1,5 +1,81 @@
 # exocad-dentalcad-elefsina
 # Exocad DentalCad Elefsina Software
+🖼️ Recommended Banner Specs
+
+Size: 1280 × 640 px (works perfectly on GitHub)
+
+Format: PNG
+
+Style: Minimal, technical, medical-tech vibe
+
+🎨 Banner Design Concept (Best Choice)
+Background
+
+Gradient: Dark blue → charcoal
+
+Example: #0F172A → #1E293B
+
+Subtle grid or abstract geometric pattern (very light opacity)
+
+Main Title (Center / Left-aligned)
+
+Exocad DentalCAD Elefsina
+(Large, bold, modern font)
+
+Suggested fonts:
+
+Inter
+
+Montserrat
+
+Poppins
+
+IBM Plex Sans
+
+Subtitle (Smaller, under title)
+
+Documentation & Workflow References for Digital Dentistry
+
+OR (shorter):
+Digital Dentistry · CAD/CAM Documentation
+
+Footer Text (Optional, very small)
+Educational & Reference Repository | Not Affiliated with Exocad GmbH
+
+
+This line quietly protects you and looks professional.
+
+🦷 Visual Elements (Optional but Nice)
+
+Thin tooth outline icon (minimal)
+
+CAD wireframe shape
+
+Abstract dental arch line
+
+Simple tech lines (avoid photos)
+
+⚠️ Avoid:
+
+Real Exocad logos
+
+Software screenshots
+
+Cracked / installer visuals
+
+🎯 Color Palette (Safe & Professional)
+
+Navy Blue: #0B3C5D
+
+Steel Gray: #4A5568
+
+White: #FFFFFF
+
+Accent (optional): Teal #38B2AC
+
+📝 Example Text Layout
+[ Exocad DentalCAD Elefsina ]
+Documentation & Workflow References for Digital Dentistry
 
 This repository provides **documentation, usage guidelines, and educational resources**
 related to **Exocad DentalCad Elefsina Software**.
