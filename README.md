@@ -1,136 +1,99 @@
 # exocad-dentalcad-elefsina
 # Exocad DentalCad Elefsina Software
-🖼️ Recommended Banner Specs
+# Exocad DentalCAD Elefsina Software
 
-Size: 1280 × 640 px (works perfectly on GitHub)
+## Overview
 
-Format: PNG
+This repository provides **documentation, reference material, and workflow notes**
+related to **Exocad DentalCAD Elefsina software**, a widely used CAD solution in
+digital dentistry and dental laboratory environments.
 
-Style: Minimal, technical, medical-tech vibe
+The goal of this project is to serve as a **knowledge base** for learners,
+technicians, and professionals who want a clearer understanding of
+DentalCAD-related concepts, system requirements, and common workflows.
 
-🎨 Banner Design Concept (Best Choice)
-Background
-
-Gradient: Dark blue → charcoal
-
-Example: #0F172A → #1E293B
-
-Subtle grid or abstract geometric pattern (very light opacity)
-
-Main Title (Center / Left-aligned)
-
-Exocad DentalCAD Elefsina
-(Large, bold, modern font)
-
-Suggested fonts:
-
-Inter
-
-Montserrat
-
-Poppins
-
-IBM Plex Sans
-
-Subtitle (Smaller, under title)
-
-Documentation & Workflow References for Digital Dentistry
-
-OR (shorter):
-Digital Dentistry · CAD/CAM Documentation
-
-Footer Text (Optional, very small)
-Educational & Reference Repository | Not Affiliated with Exocad GmbH
-
-
-This line quietly protects you and looks professional.
-
-🦷 Visual Elements (Optional but Nice)
-
-Thin tooth outline icon (minimal)
-
-CAD wireframe shape
-
-Abstract dental arch line
-
-Simple tech lines (avoid photos)
-
-⚠️ Avoid:
-
-Real Exocad logos
-
-Software screenshots
-
-Cracked / installer visuals
-
-🎯 Color Palette (Safe & Professional)
-
-Navy Blue: #0B3C5D
-
-Steel Gray: #4A5568
-
-White: #FFFFFF
-
-Accent (optional): Teal #38B2AC
-
-📝 Example Text Layout
-[ Exocad DentalCAD Elefsina ]
-Documentation & Workflow References for Digital Dentistry
-
-This repository provides **documentation, usage guidelines, and educational resources**
-related to **Exocad DentalCad Elefsina Software**.
-
-⚠️ **Note:** This repository does **not** contain the actual Exocad software binaries.
-It is intended for learning, workflow reference, and documentation purposes only.
+> ⚠️ This repository does **not** include Exocad software installers, cracks,
+> license files, or proprietary binaries.
 
 ---
 
-## 🦷 About Exocad DentalCad Elefsina
+## Purpose of This Repository
 
-Exocad 3.2 DentalCAD is a widely used CAD software solution in digital dentistry,
-supporting dental laboratories and clinics with advanced design workflows.
+Digital dentistry workflows can be complex, especially for new users.
+This repository exists to:
 
-This repository focuses on:
-- Installation references
-- System requirements
-- Workflow explanations
-- Common troubleshooting steps
-- Version change notes
+- Provide **clear documentation** and reference guides
+- Share **general installation and setup knowledge**
+- Outline **typical system requirements**
+- Document **common troubleshooting scenarios**
+- Support **learning and research**, not software distribution
 
----
-
-## 📁 Repository Contents
-
-- `/docs` – Detailed documentation and guides  
-- `/assets` – Images and supporting materials  
-- `changelog.md` – Version-related notes  
-- `DISCLAIMER.md` – Legal and usage disclaimer  
+All content is written with clarity, responsibility, and respect for
+intellectual property.
 
 ---
 
-## 🚀 Intended Audience
+## What You’ll Find Here
 
-- DentalCad 3.2 CAD/CAM learners
-- Lab technicians
-- Software evaluators
-- Researchers studying dental CAD workflows
-
----
-
-## 📌 Disclaimer
-
-This repository is **not affiliated with or endorsed by Exocad GmbH**.
-All trademarks and product names belong to their respective owners.
+- 📄 **Installation references** (non-vendor, high-level guidance)
+- 🖥️ **System requirement summaries**
+- 🔧 **Troubleshooting notes** based on common user experiences
+- 📚 **Workflow explanations** relevant to CAD/CAM dental environments
+- 📝 **Change logs** documenting updates to this repository
 
 ---
 
-## 📫 Contributions
+## Intended Audience
 
-This is a reference repository. Contributions are welcome for:
+This repository is useful for:
+
+- Dental laboratory technicians  
+- CAD/CAM learners and students  
+- Digital dentistry researchers  
+- IT teams supporting dental labs  
+- Professionals evaluating dental CAD workflows  
+
+It is **not** intended to replace official documentation or vendor support.
+
+---
+
+## Important Disclaimer
+
+- This project is **not affiliated with, endorsed by, or maintained by Exocad GmbH**
+- “Exocad” and “DentalCAD” are registered trademarks of their respective owners
+- All brand names are used **solely for identification and educational reference**
+- Users must obtain and use Exocad software through **official licensed channels**
+
+If you are a rights holder and believe any content should be revised or removed,
+please open an issue, and it will be addressed respectfully.
+
+---
+
+## Contributions
+
+Contributions are welcome in the form of:
+
 - Documentation improvements
-- Typo fixes
-- Workflow explanations
+- Clarifications or corrections
+- Formatting and readability enhancements
+- General workflow explanations (non-proprietary)
+
+Please ensure all contributions remain **educational, legal, and vendor-neutral**.
 
 ---
 
-⭐ If you find this repository useful, consider starring it Elefsina.
+## Repository Status
+
+This is a **living documentation repository**.
+Content may evolve over time as workflows, systems, and best practices change.
+
+---
+
+## Acknowledgment
+
+Digital dentistry continues to evolve rapidly, and knowledge sharing plays a
+key role in that progress. This repository aims to contribute responsibly to
+that shared understanding.
+**[Official Exocad website for product and licensing information](https://www.exocad.com)**.
+
+If you find this project useful, a ⭐ is always appreciated.
